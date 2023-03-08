@@ -1,0 +1,18 @@
+{
+    "topbar": {
+      "divider": "|"
+    },
+    "macros": {
+      "github": {
+        "title": "Github",
+        "link": "https://github.com/"
+      }
+    },
+    "search": {
+      "locale": "en",
+      "title": "Duckduckgo",
+      "template": "https://start.duckduckgo.com/",
+      "searchArg": "q"
+    },
+    "user": "MiftikCZ"
+  }
